@@ -1,7 +1,29 @@
-  /*.header {
-    padding: 80px;
-    text-align: center;
-    background-color: #1abc9c;
-    color: blue;
-    font-size: 300px;
+body {
+  background-image: url("img_tree.gif"), url("paper.gif");
+  background-repeat: no-repeat, repeat;
+  background-color: #cccccc;
+}
+
+#main-header {
+    text-align: justify-all;
+    background-color:cyan;
+    background-image: ;
+    color:blue ;
+    padding:10px;
+    font-style: oblique;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  li {
+    display: inline;
+    
+  }
+  
+  #main-footer{
+    text-align: center; 
+    font-size:18px;
   }
